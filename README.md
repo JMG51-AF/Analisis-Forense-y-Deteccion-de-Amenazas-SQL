@@ -265,9 +265,6 @@ Proyecto desarrollado con **fines educativos** como parte del curso **Google Cyb
 
 ---
 
-## 👤 Autor
-
-**José Miguel Rojas Laurente**
 
 **Áreas de interés:**
 Ciberseguridad · Seguridad de la Información · SQL · Análisis de Seguridad
