@@ -82,7 +82,7 @@ OR login_date = '2022-05-08';
 
 📷 *Evidencia:* 
 
-![Intentos de inicio de sesión en fechas específicas](imagenes/Fechas.png)
+![Intentos de inicio de sesión en fechas específicas](imagenes/02-Fechas.png)
 
 ---
 
@@ -138,7 +138,7 @@ OR department = 'Sales';
 
 📷 *Evidencia:* 
 
-![Empleados de Finance o Sales](imagenes/05-finance-sales.png)
+![Empleados de Finance o Sales](imagenes/05-finanzas-venta.png)
 
 ---
 
