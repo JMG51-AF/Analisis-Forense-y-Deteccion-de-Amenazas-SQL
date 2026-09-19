@@ -82,7 +82,7 @@ OR login_date = '2022-05-08';
 
 📷 *Evidencia:* 
 
-![Intentos de inicio de sesión en fechas específicas](imagenes/02-fechas-especificas.png)
+![Intentos de inicio de sesión en fechas específicas](imagenes/Fechas.png)
 
 ---
 
