@@ -61,7 +61,9 @@ AND success = FALSE;
 - `login_time > '18:00'` → intentos realizados después del horario laboral.
 - `success = FALSE` → intentos fallidos.
 
-📷 *Evidencia:* `imagenes/01-intentos-fallidos.png`
+📷 *Evidencia:* 
+
+![Intentos fallidos de inicio de sesión fuera del horario](imagenes/01-intentos-fallidos.png)
 
 ---
 
@@ -78,7 +80,9 @@ OR login_date = '2022-05-08';
 
 **Explicación:** `OR` permite recuperar registros que cumplan cualquiera de las dos condiciones de fecha.
 
-📷 *Evidencia:* `imagenes/02-fechas-especificas.png`
+📷 *Evidencia:* 
+
+![Intentos de inicio de sesión en fechas específicas](imagenes/02-fechas-especificas.png)
 
 ---
 
@@ -94,7 +98,9 @@ WHERE NOT country LIKE 'MEX%';
 
 **Explicación:** `NOT` junto con `LIKE 'MEX%'` excluye todos los registros cuyo país comienza con "MEX", dejando visibles únicamente los accesos extranjeros.
 
-📷 *Evidencia:* `imagenes/03-fuera-de-mexico.png`
+📷 *Evidencia:* 
+
+![Intentos de inicio de sesión fuera de México](imagenes/03-fuera-de-mexico.png)
 
 ---
 
@@ -111,7 +117,9 @@ AND office LIKE 'East%';
 
 **Explicación:** `AND` combina ambos filtros: departamento **y** ubicación de oficina.
 
-📷 *Evidencia:* `imagenes/04-empleados-marketing.png`
+📷 *Evidencia:* 
+
+![Empleados del departamento de Marketing](imagenes/04-empleados-marketing.png)
 
 ---
 
@@ -128,7 +136,9 @@ OR department = 'Sales';
 
 **Explicación:** `OR` obtiene empleados que pertenezcan a **cualquiera** de los dos departamentos.
 
-📷 *Evidencia:* `imagenes/05-finance-sales.png`
+📷 *Evidencia:* 
+
+![Empleados de Finance o Sales](imagenes/05-finance-sales.png)
 
 ---
 
@@ -144,7 +154,9 @@ WHERE NOT department = 'Information Technology';
 
 **Explicación:** `NOT` excluye los registros cuyo departamento sea TI.
 
-📷 *Evidencia:* `imagenes/06-no-ti.png`
+📷 *Evidencia:*
+
+![Empleados que no pertenecen a TI](imagenes/06-no-ti.png)
 
 ---
 
