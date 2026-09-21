@@ -206,7 +206,7 @@ analisis-forense-deteccion-amenazas-sql/
 
 ## 🎓 Nota sobre el proyecto
 
-Proyecto desarrollado con **fines educativos** como parte del curso **Google Cybersecurity Professional Certificate**, realizado a través de **Coursera**. Las capturas corresponden al entorno de laboratorio utilizado durante las prácticas del curso.
+Proyecto desarrollado con fines educativos como parte del curso **Google Cybersecurity Professional Certificate**, realizado a través de **Coursera**. Las capturas corresponden al entorno de laboratorio utilizado durante las prácticas del curso.
 
 ---
 
