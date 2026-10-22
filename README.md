@@ -4,6 +4,7 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Google%20Certificate-red)
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen)
 
+Análisis forense y detección de amenazas mediante consultas SQL sobre registros de acceso y datos de empleados.
 ## 📌 Descripción del proyecto
 
 Este proyecto presenta un análisis forense orientado a la **seguridad de la información**, aplicando consultas SQL para investigar registros de inicio de sesión y datos de empleados dentro de una organización simulada.
